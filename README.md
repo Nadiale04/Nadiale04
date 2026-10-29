@@ -12,6 +12,8 @@ Combino mi pensamiento analítico financiero con el poder de los datos y la tecn
 
 ### 🛠️ Herramientas y Tecnologías
 * **Análisis y Datos:** SQL, Power BI, DAX, Excel, Modelado Relacional (Copo de Nieve/Estrella), Python.
+* **Ofimática:** Microsoft Word, Google Docs, Microsoft Excel, Google Sheets, Microsoft Access, Microsoft PowerPoint, Microsoft Outlook, Gmail, Google Calendar, Google Drive, Microsoft OneDrive.
+* **Inteligencia Artificial:** ChatGPT, Google Gemini, Claude.
 
 ### 📈 Proyectos Destacados
 * **Dashboard de Ventas - Cadena de Cafeterías "MOKA & CO." https://github.com/Nadiale04/Analisis-Cafeteria_Proyecto-PowerBI:** Panel interactivo en Power BI para monitoreo financiero, análisis de rentabilidad y experiencia del cliente. *(Limpieza en Power Query, modelo Snowflake y medidas DAX).*
