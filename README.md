@@ -1,16 +1,23 @@
-## Hi there 👋
+# ¡Hola! Soy Nadia Alessandra 👋
 
-<!--
-**Nadiale04/Nadiale04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Business Intelligence | Economía | Data Science**
 
-Here are some ideas to get you started:
+Combino mi pensamiento analítico financiero con el poder de los datos y la tecnología. Disfruto transformar bases de datos transaccionales en paneles de decisión estratégicos y entender la infraestructura detrás de los sistemas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩🏻‍💻 Sobre mí
+* 🌍 **Ubicación:** Perú
+* 🚀 **Enfoque actual:** Inteligencia de Negocios y Ciencia de Datos.
+* 💡 **Perfil Híbrido:** Aplico mi visión de negocios (Economía) junto con una sólida base técnica para crear soluciones accionables.
+* 🗣️ **Idiomas:** Español (Nativo), Inglés (Básico) y Japonés (JLPT N4).
+
+### 🛠️ Herramientas y Tecnologías
+* **Análisis y Datos:** SQL, Power BI, DAX, Excel, Modelado Relacional (Copo de Nieve/Estrella), Python.
+
+### 📈 Proyectos Destacados
+* **Dashboard de Ventas - Cadena de Cafeterías "MOKA & CO." https://github.com/Nadiale04/Analisis-Cafeteria_Proyecto-PowerBI:** Panel interactivo en Power BI para monitoreo financiero, análisis de rentabilidad y experiencia del cliente. *(Limpieza en Power Query, modelo Snowflake y medidas DAX).*
+
+### 📫 Cómo contactarme
+* **Email:** nadialegc08@gmail.com
+
+---
+*"Los datos cuentan la historia, nosotros decidimos el final."*
