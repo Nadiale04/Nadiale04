@@ -17,7 +17,7 @@ Combino mi pensamiento analítico financiero con el poder de los datos y la tecn
 
 ### 📈 Proyectos Destacados
 * **Dashboard de Ventas - Cadena de Cafeterías "MOKA & CO." https://github.com/Nadiale04/Analisis-Cafeteria_Proyecto-PowerBI:** Panel interactivo en Power BI para monitoreo financiero, análisis de rentabilidad y experiencia del cliente. *(Limpieza en Power Query, modelo Snowflake y medidas DAX).*
-* **Gestión de Compras y Pagos (#)**: Diseño de modelo relacional de base de datos y desarrollo de consultas avanzadas para la automatización y generación de reportes de negocio. *(SQL, JOINs, Subconsultas, Stored Procedures).*
+* **Gestión de Compras y Pagos: https://github.com/Nadiale04/PROYECTO-DE-GESTION-DE-CUENTAS-POR-PAGAR-SQL** Diseño de modelo relacional de base de datos y desarrollo de consultas avanzadas para la automatización y generación de reportes de negocio. *(SQL, JOINs, Subconsultas, Stored Procedures).*
 * **Segmentación de Clientes Financieros (#)**: Pipeline de análisis de datos crediticios para identificar perfiles de riesgo y proponer productos financieros. *(Python, K-Means, PCA, Limpieza de Datos y Detección de Outliers).*
 
 ### 📫 Cómo contactarme
