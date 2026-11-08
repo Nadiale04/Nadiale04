@@ -1,6 +1,6 @@
 # ¡Hola! Soy Nadia Alessandra 👋
 
-**Business Intelligence | Economía | Data Science**
+**Business Intelligence | Economía | Análisis de datos
 
 Combino mi pensamiento analítico financiero con el poder de los datos y la tecnología. Disfruto transformar bases de datos transaccionales en paneles de decisión estratégicos y entender la infraestructura detrás de los sistemas.
 
