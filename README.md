@@ -1,6 +1,6 @@
-# ¡Hola! Soy Nadia Alessandra 👋
+# Nadia Alessandra
 
-**Business Intelligence | Economía | Análisis de datos
+Business Intelligence | Economía | Análisis de datos
 
 Combino mi pensamiento analítico financiero con el poder de los datos y la tecnología. Disfruto transformar bases de datos transaccionales en paneles de decisión estratégicos y entender la infraestructura detrás de los sistemas.
 
@@ -22,6 +22,3 @@ Combino mi pensamiento analítico financiero con el poder de los datos y la tecn
 
 ### 📫 Cómo contactarme
 * **Email:** nadialegc08@gmail.com
-
----
-*"Los datos cuentan la historia, nosotros decidimos el final."*
